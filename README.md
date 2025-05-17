@@ -60,6 +60,6 @@ This project demonstrates that analyzing influencer performance should not rely 
 
 ## 📁 Important Files
 
-- **influencer_analysis.ipynb**: Main notebook for preprocessing, EDA, and clustering
+- **Influencer_Analysis_AM.ipynb**: Main notebook for preprocessing, EDA, and clustering
 - **social_media_influencers_TikTok_Sep_2022.csv**: Original dataset
 - **README.md**: Project documentation
